@@ -9,7 +9,7 @@ To run this project locally-
   <li>Clone this repo.</li>
   <li>Open the js/app.js file</li>
   <li> Replace the FaceBook Tooken with your token </li>
-  <li> To get facebook tooken go to <a herf = 'https://developers.facebook.com/docs/graph-api'> </a>
+  <li> To get facebook tooken go to <link herf = 'https://developers.facebook.com/docs/graph-api'> </link>
 </li>
 </ul>
 
