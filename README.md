@@ -17,7 +17,7 @@ To run this project locally-
   <li> To get facebook tooken go to https://developers.facebook.com/docs/graph-api.
 </li>
   <li> create your facebook developers account and follow the instruction.</li>
-  <li>open the index.html in root</li>
+  <li>open the index.html in with live server</li>
   
 </ul>
 
