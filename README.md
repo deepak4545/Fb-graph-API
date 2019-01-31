@@ -7,7 +7,10 @@
 To run this project locally-
 <ul>
   <li>Clone this repo.</li>
-  <li>Open index.html in the root directory.</li>
+  <li>Open the js/app.js file</li>
+  <li> Replace the FaceBook Tooken with your token </li>
+  <li> To get facebook tooken go to <a> https://developers.facebook.com/docs/graph-api/</a>
+</li>
 </ul>
 
 <h2> Prerequisites </h2>
